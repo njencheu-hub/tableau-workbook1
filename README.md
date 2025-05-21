@@ -1,2 +1,3 @@
 # tableau-workbook1
-Super Store Profit Analysis Project 
+Superstore Profit Analysis Project 
+It is January of 2016, and the CEO of Superstore is looking to bolster business for the upcoming year. The finance team has noticed that there were some profit problems for particular inventory categories during 2015. We are tasked with figuring out which item(s) have had profit problems multiple years in a row (both net and year over year), where the problems are happening, and why. We have created visuals so that multiple teams (leadership, sales, finance, marketing, and manufacturing) can view the results and understand the data quickly.
